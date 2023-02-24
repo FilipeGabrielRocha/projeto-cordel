@@ -1,5 +1,7 @@
 # projeto-cordel
 Projeto do Cordel de Milton Duarte
+
+Link do Site: https://filipegabrielrocha.github.io/projeto-cordel/
 ## Página no Desktop e Tablet
 ![image](https://user-images.githubusercontent.com/94459039/216769809-158a7530-6799-414b-82ac-18bf210be1b1.png)
 ![image](https://user-images.githubusercontent.com/94459039/216769831-264cc8dc-ff7a-4a37-ab84-2f3a1a048c83.png)
